@@ -10,3 +10,5 @@ z = x + y
 print(f"Tensor x: {x}")
 print(f"Tensor y: {y}")
 print(f"Result (x + y): {z}")
+
+#テスト
